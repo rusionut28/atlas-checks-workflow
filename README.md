@@ -3,12 +3,12 @@ Run Atlas checks for a country on your MacOS machine
 
 Dependencies:
 
-OpenJDK 11
-Gradle
-Git Command Line Tools
-Git
-Wget (optional)
-Osmium
+1. OpenJDK 11
+2. Gradle
+3 .Git Command Line Tools
+4. Git
+5. Wget (optional)
+6. Osmium
 
 
 
